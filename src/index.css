@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#FFF5E0] text-slate-900 font-sans; 
+    /* Using the hex code directly here prevents the crash if the config fails */
+  }
+}
+
+/* Custom Branded Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFF5E0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #7D0000;
+  border-radius: 10px;
+}
