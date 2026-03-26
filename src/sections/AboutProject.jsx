@@ -43,8 +43,7 @@ const AboutProject = () => {
           <p className="text-slate-600 text-lg mb-10 font-light leading-relaxed">
             This project explores the delicate balance between ancestral 
             African aesthetics and modern digital toolkits. By utilizing 
-            React and Motion Graphics, we bring the "Àṣà" spirit into the 
-            21st-century web experience.
+            React and Motion Graphics, we bring the spirit into the web experience.
           </p>
           <div className="h-px w-full bg-slate-100 mb-10"></div>
           <div className="flex gap-16">
