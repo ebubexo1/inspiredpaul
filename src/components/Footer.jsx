@@ -38,7 +38,6 @@ const Footer = () => {
                 <span className="text-[11px] text-slate-500">Digital Media Design</span>
               </li>
               <li className="flex flex-col">
-                <span className="text-white font-bold">First Semester</span>
                 <span className="text-[11px] text-slate-500">2025/2026 Academic Session</span>
               </li>
             </ul>

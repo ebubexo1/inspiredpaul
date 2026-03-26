@@ -24,6 +24,8 @@ const AboutProject = () => {
             {/* Elegant Overlay Label */}
             <div className="absolute bottom-6 left-6 bg-white/90 backdrop-blur-md px-6 py-3 rounded-full shadow-xl">
               <p className="text-unilag-maroon font-black text-[10px] uppercase tracking-widest">Project Lead / VSA 490</p>
+              Paul Ayobamidele Solarin
+              <div>10118064</div>
             </div>
           </div>
         </motion.div>
